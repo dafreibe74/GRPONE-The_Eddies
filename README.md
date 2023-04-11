@@ -9,6 +9,7 @@ NAMES:
 
 # Desc/outline: 
 # Project Data Source: World Happiness
+https://www.kaggle.com/datasets/unsdsn/world-happiness
 * We believe that the data set is large and gives us room to do cross-analysis in later projects.
 
 * 1. Which areas have the happiest people - and what similarities about those locations
