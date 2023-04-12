@@ -13,12 +13,11 @@ This is the repository for our first group project.
 https://www.kaggle.com/datasets/unsdsn/world-happiness
 * We believe that the data set is large and gives us room to do cross-analysis in later projects.
 
-* 1. Which areas have the happiest people - and what similarities about those locations
-    
-* 2. How does trust in each government correlates/contritbutes resident's happiness?
-* 3. How does the extent of resident freedon correlate ot resident happiness?
-* 4. How does the level of gov. funded social support correlate to happiness? 
-* 5. How does happiness correlate to life expectancy and health?
-* 6. How does GDP affect happiness?
+* 1. We believe that the locations with consistently high happines scores share common characteristics. 
+* 2. Trust in each government correlates/contritbutes resident's happiness.
+* 3. The extent of resident freedon correlates to resident happiness.
+* 4. The level of gov. funded social support correlates to happiness.
+* 5. The level of happiness correlates to life expectancy and health.
+* 6. GDP correlates to happiness
 
 * Bonus - Layering in weather API into geography to see if there is a correlation to temperature and happiness?
