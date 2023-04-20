@@ -21,3 +21,6 @@ https://www.kaggle.com/datasets/unsdsn/world-happiness
 * 6. GDP correlates to happiness
 
 * Bonus - Layering in weather API into geography to see if there is a correlation to temperature and happiness?
+
+
+* To review our work please proceed to the "analysis" branch
