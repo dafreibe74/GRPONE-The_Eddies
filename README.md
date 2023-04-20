@@ -16,6 +16,8 @@ The categories are defined by The World Happiness Report as follows:
 
 6. Perceptions of corruption are the average ofbinary answers to two GWP questions: “Is corruption widespread throughout the government or not” and “Is corruption widespread within businesses or not?” Where datafor government corruption are missing, the perception of business corruption is used as the overall corruption-perception measure. 
 
+7. The dystopia residual column estimates the extent to which each of the six factors – economic production, social support, life expectancy, freedom, absence of corruption, and generosity – contribute to making life evaluations higher in each country than they are in Dystopia, a hypothetical country that has values equal to the world’s lowest national averages for each of the six factors. They have no impact on the total score reported for each country, but they do explain why some countries rank higher than others.
+
 
 Our group made the following hypotheses from the raw data:
 1. We believe that the locations with consistently high happines scores share common characteristics. 
