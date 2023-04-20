@@ -18,12 +18,12 @@ The categories are defined by The World Happiness Report as follows:
 
 
 Our group made the following hypotheses from the raw data:
-# 1. We believe that the locations with consistently high happines scores share common characteristics. 
-# 2. Trust in each government correlates/contritbutes resident's happiness.
-# 3. The extent of resident freedon correlates to resident happiness.
-# 4. The level of gov. funded social support correlates to happiness.
-# 5. The level of happiness correlates to life expectancy and health.
-# 6. GDP correlates to happiness
+1. We believe that the locations with consistently high happines scores share common characteristics. 
+2. Trust in each government correlates/contritbutes resident's happiness.
+3. The extent of resident freedon correlates to resident happiness.
+4. The level of gov. funded social support correlates to happiness.
+5. The level of happiness correlates to life expectancy and health.
+6. GDP correlates to happiness
 
 We used the python libraries pandas, scipy, numpy, and matplotlib, to analyze test the above hypotheses and formulate a new one.
 
