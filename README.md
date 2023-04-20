@@ -38,9 +38,9 @@ Hypothesis #3 could not be rejected by statistical analysis. According to the sc
 
 We did not test Hypothesis #4 due to inconsistencies in the category of data.
 
-Hypothesis #5 could not be rejected by statistical analysis. According to the scatter plots life expectancy in each country had a direct relationship with the country's happiness score. The degree of the direct relationship between the two was different before and after the COVID-19 pandemic. The scatter plots indicate life expectancy more signicantly impacted country happiness outside of the COVID-19 pandemic years.
+Hypothesis #5 could not be rejected by statistical analysis. According to the scatter plots life expectancy in each country had a direct relationship with the country's happiness score. The degree of the direct relationship between the two was different before and after the COVID-19 pandemic. The scatter plots indicate life expectancy more significantly impacted country happiness outside of the COVID-19 pandemic years.
 
-Hypothesis #6 could not be rejected by statistical analysis. According to the scatter plots GDP had a direct relationship with the country's happiness score. The degree of the direct relationship between the two was different before and after the COVID-19 pandemic. The scatter plots indicate GDP more signicantly impacted country happiness during COVID-19 pandemic years.
+Hypothesis #6 could not be rejected by statistical analysis. According to the scatter plots GDP had a direct relationship with the country's happiness score. The degree of the direct relationship between the two was different before and after the COVID-19 pandemic. The scatter plots indicate GDP more significantly impacted country happiness during COVID-19 pandemic years.
 
 
 Contributers:
