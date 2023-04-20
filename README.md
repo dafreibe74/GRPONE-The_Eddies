@@ -1,3 +1,4 @@
+
 In this project our group analyzed data related to country happiness across the world from 2015 to 2022.
 We exported the raw data from Kaggle.
 The raw data contains categorical data on GDP, Family, Life Expectancy, Freedom, Trust in the Government, Generosity, and Dystopia Residual in each country related to the citizens Happiness.
